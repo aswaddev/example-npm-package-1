@@ -1,15 +1,16 @@
 {
-    "name": "aa-compolib",
+    "name": "@aswaddev/compolib",
     "repository": {
         "type": "git",
         "url": "https://github.com/aswaddev/example-npm-package-1"
     },
-    "version": "1.0.0",
+    "version": "1.0.2",
     "description": "This is an example react component library",
     "main": "dist/cjs/index.js",
     "module": "dist/esm/index.js",
     "files": [
-        "dist"
+        "dist",
+        "src"
     ],
     "scripts": {
         "build": "rm -rf dist/ && prettier --write src/ && npm run build:esm && npm run build:cjs",
