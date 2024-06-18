@@ -1,5 +1,5 @@
 {
-    "name": "compolib",
+    "name": "aa-compolib",
     "repository": {
         "type": "git",
         "url": "https://github.com/aswaddev/example-npm-package-1"
