@@ -4,7 +4,7 @@
         "type": "git",
         "url": "https://github.com/aswaddev/example-npm-package-1"
     },
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "This is an example react component library",
     "main": "dist/cjs/index.js",
     "module": "dist/esm/index.js",
